@@ -1,3 +1,58 @@
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align: center; border: none;"> 
+        Министерство образования и науки РФ <br/>
+        ГАПОУ "Зеленодольский механический колледж"
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center; border: none; height: 45em;">
+        <h2>
+            Курс занятий по УП 07
+        </h2>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: right; border: none; height: 20em;">
+        <div style="float: right;" align="left">
+            <b>Разработал</b>: <br/>
+            Сафиулин Руслан Ринатович
+        </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center; border: none; height: 1em;">
+        г.Зеленодольск, 2026
+    </td>
+  </tr>
+</table>
+
+<div style="page-break-after: always;"></div>
+
+# Содержание
+
+### 
+
+[Руководство по стилю SQL · SQL Style Guide](https://www.sqlstyle.guide/ru/)<br/>
+[Учетные данные 235 Группа](docs/235.md)<br/>
+[Учетные данные 237 Группа](docs/237.md)<br/>
+[Оценочные материалы ДЭ 2025 Том 1](OM_DE2025.pdf)<br/>
+[Ресурсы для выполнения 2-4 модулей](Resources%20_090207-1-2025.zip)
+
+## 
+
+1. [Общий текст задания](TASK.MD)
+2. [Задание 1. Модуль 1,2,3. Разработка, администрирование и защита баз данных](LESSON1.MD)
+3. [Задание 1. Модуль 4. Разработка БД](LESSON2.MD)
+4. [Задание 2. Модуль 4. Доработка БД и заполнение данными.](LESSON3.MD)
+5. [Задание 3. Модуль 2. PostgreSQL. Создание хранимых функций](LESSON4.MD)
+6. [Задание 4. Модуль 2. PostgreSQL. Хранимая процедура ADR и триггеры](LESSON5.MD)
+7. [Задание 5. Модуль 3. Создание двух запросов](LESSON6.MD)
+8. [Задание 6. Модуль 4. Создание JavaFX+PostgreSQL приложения](LESSON7.MD)
+9. [Зачетное задание](FINALTASK.MD)
+
+
+
 # Задание демонстрационного экзамена
 
 ## Общая информация
